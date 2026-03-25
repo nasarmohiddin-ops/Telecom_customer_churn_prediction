@@ -1,1 +1,1 @@
-# Telecom_customer_chum_prediction
+# Telecom_customer_churn_prediction
