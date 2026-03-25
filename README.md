@@ -72,7 +72,3 @@ The goal is to identify key factors influencing customer churn and build predict
 GitHub: nasarmohiddin-ops [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fnasarmohiddin-ops")
 
 ---
-
-
-
-👉 This README will make your repository look polished and professional. Do you want me to also add **badges** (like Python version, license, or GitHub stats) at the top to make it visually appealing?
