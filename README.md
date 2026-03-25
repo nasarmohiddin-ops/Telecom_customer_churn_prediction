@@ -12,6 +12,9 @@ This project analyzes **customer churn in the telecom industry** using multiple 
 The goal is to identify key factors influencing customer churn and build predictive models to help telecom companies **reduce churn rates** and improve customer retention.
 
 ---
+## Dataset Information
+Dataset used: Telecom Customer Churn Dataset
+Dataset Source: [www.kaggle.com/datasets/mnassrib/telecom-churn-datasets](url)
 
 ## 📂 Repository Structure
 | Folder | Description |
